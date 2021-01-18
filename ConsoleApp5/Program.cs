@@ -17,14 +17,23 @@ namespace ConsoleApp5
 
             // 入力を促すメッセージの表示して、数値を入力してもらう
             Console.Write("あなたのお年は？   : ");
-            var age = int.Parse(Console.ReadLine());
 
-            // メッセージの出力
-            Console.WriteLine("{0} ({1}歳) さん、ようこそお越しくださいました。", name, age);
+            int age;
+            try
+            {
+                age = int.Parse(Console.ReadLine());
+                Console.WriteLine("{0} ({1}歳) さん、ようこそお越しくださいました。", name, age);
 
-            masa test = new masa();
+            }
+            catch (FormatException)
+            {
+
+            }
+
+            ohfuji test = new ohfuji(123);
 
             Console.WriteLine("{0}", test.Get_age());
+
 
         }
 
@@ -37,7 +46,12 @@ namespace ConsoleApp5
                 this.age = 0;
             }
 
-            public void Set_age(int num)
+            public masa(int a)
+            {
+                this.age = a;
+            }
+
+            protected void Set_age(int num)
             {
                 this.age = num;
             }
@@ -48,7 +62,13 @@ namespace ConsoleApp5
             }
         }
 
-
+        class ohfuji : masa
+        {
+            public ohfuji(int a):base(a)
+            {
+                Set_age(a);
+            }
+        }
 
     }
 

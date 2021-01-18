@@ -4,3 +4,9 @@ C:\Users\user\Desktop\project\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
 C:\Users\user\Desktop\project\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\project\ConsoleApp5\obj\Debug\ConsoleApp5.exe
 C:\Users\user\Desktop\project\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\user\Desktop\新しいフォルダー\Project\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\user\Desktop\新しいフォルダー\Project\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\user\Desktop\新しいフォルダー\Project\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\user\Desktop\新しいフォルダー\Project\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\新しいフォルダー\Project\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\user\Desktop\新しいフォルダー\Project\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
