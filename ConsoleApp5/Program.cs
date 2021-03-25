@@ -11,7 +11,7 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
-            // 入力を促すメッセージの表示して、文字を入力してもらうefwsfwfwedfbgdfgfggfhf4567qweqeqwqdgfdfgdfgdf123141341343145343553434535rgterdgedg
+            // 入力を促すメッセージの表示して、文字を入力してもらう
             Console.Write("あなたのお名前は？ : ");
             var name = Console.ReadLine();
 
