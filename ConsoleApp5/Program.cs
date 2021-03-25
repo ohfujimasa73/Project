@@ -15,7 +15,7 @@ namespace ConsoleApp5
             Console.Write("あなたのお名前は？ : ");
             var name = Console.ReadLine();
 
-            // 入力を促すメッセージの表示して、数値を入力してもらう1234rfsfsdfd
+            // 入力を促すメッセージの表示して、数値を入力してもらう1234rfsfsdfd12323123tyrtthrhr
             Console.Write("あなたのお年は？   : ");
 
             int age;
