@@ -10,7 +10,7 @@ namespace ConsoleApp5
     class Program
     {
         static void Main(string[] args)
-        {
+        {s
             // 入力を促すメッセージの表示して、lplplpp文字を入力してもらうggghfghfhgfghgfhggggggggggggttttttttttjfgjtgkhktfghfghfgghkgtyrtyrytryrtyttryry11111111111111111111ppppppppppeeeeeserfwesgfew
             Console.Write("あなたのお名前は？ : ");
             var name = Console.ReadLine();
