@@ -41,7 +41,7 @@ aaaaaaaaaaaaaaaaaaaaaa]]]]]]]sssssssssstttttttttttttrrrrrrrrrrrrrryyyyyyyyyyyyyy
 
             Console.WriteLine("{0}", test.Get_age());
 
-
+sssssssssssssssssssssssssssssssssssssssssss
         }
 
         class masa
