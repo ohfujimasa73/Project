@@ -18,7 +18,7 @@ namespace ConsoleApp5
             // 入力を促すメッセージの表示して、数値を入力してもらうoooo
             Console.Write("あなたのお年は？   : ");
 
-sfsfdsgfdgdfgfdgfdgdgkkkkkkkkkkkkkcvghfghfghgfhghgf
+sfsfdsgfdgdfgfdgfdgdgkkkkkkkkkkkkkcvghfghfghgfhghgfooooo
 sfsfdsgfdgdfgfdgfdgdgkkkkkkkkkkkkkcvghfghfghgfhghgffghrhjytrjtyujtukukku
 dfsdffsdfdsfdsfdgfdgdfgdgfdgdgfgdgdfggllllllllllllllllllllllllllooooooooooooooooooooooopppppppppppppppp
 zdddddddddddddd
@@ -27,8 +27,6 @@ aaaaaaaaaaaaaaaaaaaaaa]]]]]]]sssssssssstttttttttttttrrrrrrrrrrrrrryyyyyyyyyyyyyy
 eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ttttttttttt
 ppppppppppppppppppppppppppp
-
-
 dsfsdfsdf
             int age;
             try
