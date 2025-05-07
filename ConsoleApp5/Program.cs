@@ -27,7 +27,6 @@ aaaaaaaaaaaaaaaaaaaaaa]]]]]]]sssssssssstttttttttttttrrrrrrrrrrrrrryyyyyyyyyyyyyy
 eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ttttttttttt
 ppppppppppppppppppppppppppp
-oooooooooooo
             int age;
             try
             {
