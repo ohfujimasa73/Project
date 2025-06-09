@@ -1,2 +1,2 @@
-*.cs  eol=crlf encoding=utf-8
+*.cs  eol=crlf encoding=cp932
 *.txt eol=lf encoding=utf-8
