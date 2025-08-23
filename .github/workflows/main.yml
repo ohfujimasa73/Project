@@ -1,6 +1,11 @@
 name: GitHub Actions Demo
 
-on: [push]
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'Name'
+        required: true
 
 jobs:
   echo_hello:
@@ -14,3 +19,6 @@ jobs:
 
       - name: "趣味を話す"
         run: echo "I love programming!!"
+        
+      - name: print log
+        run: echo "Hello! ${{ github.event.inputs.name }}"
