@@ -5,7 +5,8 @@ on:
     inputs:
       name:
         description: 'Name'
-        required: true
+        required: false
+        default: 'masa'
 
 jobs:
   echo_hello:
