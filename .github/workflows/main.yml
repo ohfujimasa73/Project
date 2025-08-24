@@ -22,4 +22,6 @@ jobs:
         run: echo "I love programming!!"
         
       - name: print log
-        run: echo "Hello! ${{ github.event.inputs.name }}"
+        run: |
+          echo "Hello! ${{ github.event.inputs.name }}"
+          echo "::error::This is an Error"
