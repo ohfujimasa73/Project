@@ -5,7 +5,7 @@ on:
     inputs:
       name:
         description: 'Name'
-        required: false
+        required: true
         default: 'masa'
 
 jobs:
