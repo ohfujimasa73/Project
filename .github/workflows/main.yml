@@ -25,3 +25,8 @@ jobs:
         run: |
           echo "Hello! ${{ github.event.inputs.name }}"
           echo "::error::This is an Error"
+      - name: Checkout specific branch
+        uses: actions/checkout@v4
+        with:
+          ref: refs/heads/main  # 特定のブランチを指定
+          fetch-depth: 1  # 最新の1コミットだけを取得
