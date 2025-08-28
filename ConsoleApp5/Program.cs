@@ -54,6 +54,7 @@ sssssssssssssssssssssssssssssssssssssssssss
             public masa()
             {
                 this.age = 0;
+                this.age = 12;
             }
 
             public masa(int a)

@@ -1,0 +1,2 @@
+*.cs  eol=crlf encoding=sjis
+*.txt eol=lf encoding=utf-8
